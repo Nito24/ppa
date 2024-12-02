@@ -1,0 +1,13 @@
+Package: nitosync
+Version: 0.0.1
+Architecture: all
+Maintainer: Nito24 <example@example.com>
+Depends: rsync, libnotify4, zenity, gawk
+Filename: ./nitosync_0.0.1-1_all.deb
+Size: 3156
+MD5sum: 05c48ea403e9104dd568861c433836b4
+SHA1: 17afbcaee68f3eecd9cda4c7a9bce7044c034cd8
+SHA256: 5ba5efa667462e97f3637760784ca9abfd73d9db184f364df4ced67cfac2c05b
+Homepage: https://github.com/nito24/nitosync
+Description: A simple script to sync files bidirectionally before and after running a program/scipt/application.
+
